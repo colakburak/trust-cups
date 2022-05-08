@@ -4,10 +4,12 @@ Take it. Drink it. Pay later.
 ![image](https://user-images.githubusercontent.com/63854390/167278032-88af1ede-1dee-4797-a874-8cb256ff4961.png)
 
 >Redis, Redis-Stream, RedisJson, RedisSearch
-
+>
 >Python, FastAPI, Uvicorn, Venv
-
+>
 >ReactJS, HTML/CSS
+
+### Trust Cups is a integration API for retail shops. With our BUY NOW PAY LATER key idea, we develop Hybrid Loyality Program. We believed the best way to increase loyality of customers is a both side trust. With our analysis we can get Trust Index for each customer.
 
 ## Trust cups is a tool which allows customers to lend the coffee and pay it back later.  It collects customer's transaction data and analysing their trust index.  After every time when customers buys a coffee, trust index is increasing, which means more trust cups. 
 
