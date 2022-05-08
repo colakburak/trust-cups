@@ -13,13 +13,15 @@ Take it. Drink it. Pay later.
 
 Trust cups is a tool which allows customers to lend the coffee and pay it back later.  It collects customer's transaction data and analysing their trust index.  After every time when customers buys a coffee, trust index is increasing, which means more trust cups. 
 
+![image](https://user-images.githubusercontent.com/63854390/167280438-ecb59132-0f7c-46a2-b967-a95b24b377ec.png)
+
 
 ## Why do we need this?
 
 Trust Cups is a integration API for retail shops. With our BUY NOW PAY LATER key idea, we develop Hybrid Loyality Program. We believed the best way to increase loyality of customers is a both side trust. With our analysis we can get Trust Index for each customer.
 
+![image](https://user-images.githubusercontent.com/63854390/167280426-74e25a07-c21a-4af0-a356-eb57dcd7cf1a.png)
 
-![Balance (1)](https://user-images.githubusercontent.com/63854390/167280225-17944f61-f302-4475-be62-c5eee5fa8816.png)
 
 ## What is more?
 
