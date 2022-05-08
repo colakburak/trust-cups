@@ -1,8 +1,9 @@
 # Trust Cups
 Take it. Drink it. Pay later.
-file:///home/barak/Downloads/logo_trust_cups.png![image](https://user-images.githubusercontent.com/63854390/167278011-715e928a-2649-49c5-b293-9b41995e97b5.png)
 
-# Trust cups is a tool which allows customers to lend the coffee and pay it back later.  It collects customer's transaction data and analysing their trust index.  After every time when customers buys a coffee, trust index is increasing, which means more trust cups. 
+(https://user-images.githubusercontent.com/63854390/167278011-715e928a-2649-49c5-b293-9b41995e97b5.png)
+
+## Trust cups is a tool which allows customers to lend the coffee and pay it back later.  It collects customer's transaction data and analysing their trust index.  After every time when customers buys a coffee, trust index is increasing, which means more trust cups. 
 However if customer doesn't pay until deadline his trust index is decreasing and he is loosing opportunity to use credit option.
 
 We offer 3 packs of memberships: Individual, Family and Company.
