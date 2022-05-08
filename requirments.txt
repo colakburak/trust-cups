@@ -1,0 +1,6 @@
+"fastapi[all]"
+redis-om
+"uvicorn[standard]"
+sterlette
+venv
+
