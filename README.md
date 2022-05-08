@@ -10,6 +10,10 @@ Take it. Drink it. Pay later.
 >ReactJS, HTML/CSS
 
 ## Trust cups is a tool which allows customers to lend the coffee and pay it back later.  It collects customer's transaction data and analysing their trust index.  After every time when customers buys a coffee, trust index is increasing, which means more trust cups. 
+
+![Balance (1)](https://user-images.githubusercontent.com/63854390/167280225-17944f61-f302-4475-be62-c5eee5fa8816.png)
+
+
 However if customer doesn't pay until deadline his trust index is decreasing and he is loosing opportunity to use credit option.
 
 We offer 3 packs of memberships: Individual, Family and Company.
