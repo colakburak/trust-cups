@@ -3,7 +3,7 @@ Take it. Drink it. Pay later.
 
 ![image](https://user-images.githubusercontent.com/63854390/167278032-88af1ede-1dee-4797-a874-8cb256ff4961.png)
 
-[You can access docs of APi from here(DEMO)](https://salttester.com/)
+## [You can access docs of APi from here(DEMO)](https://salttester.com/)
 
 >Redis, Redis-Stream, RedisJson, RedisSearch
 >
