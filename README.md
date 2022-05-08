@@ -9,12 +9,17 @@ Take it. Drink it. Pay later.
 >
 >ReactJS, HTML/CSS
 
-### Trust Cups is a integration API for retail shops. With our BUY NOW PAY LATER key idea, we develop Hybrid Loyality Program. We believed the best way to increase loyality of customers is a both side trust. With our analysis we can get Trust Index for each customer.
+## Why do we need this?
 
-## Trust cups is a tool which allows customers to lend the coffee and pay it back later.  It collects customer's transaction data and analysing their trust index.  After every time when customers buys a coffee, trust index is increasing, which means more trust cups. 
+Trust Cups is a integration API for retail shops. With our BUY NOW PAY LATER key idea, we develop Hybrid Loyality Program. We believed the best way to increase loyality of customers is a both side trust. With our analysis we can get Trust Index for each customer.
+
+### What is it and how it works?
+
+Trust cups is a tool which allows customers to lend the coffee and pay it back later.  It collects customer's transaction data and analysing their trust index.  After every time when customers buys a coffee, trust index is increasing, which means more trust cups. 
 
 ![Balance (1)](https://user-images.githubusercontent.com/63854390/167280225-17944f61-f302-4475-be62-c5eee5fa8816.png)
 
+### What is more?
 
 However if customer doesn't pay until deadline his trust index is decreasing and he is loosing opportunity to use credit option.
 
